@@ -12,6 +12,9 @@ dir=$1
  else
  echo "The $dir is not a directory"
 fi
+
+
+
 ----------------------------------------------------------------------------------------------
 Run:$sh Lab1.sh one (“one” is a directory should contain one or more files)
 Output: one:
